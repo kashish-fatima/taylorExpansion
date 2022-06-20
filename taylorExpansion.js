@@ -10,6 +10,6 @@ function taylorExpansion(){
 }
 
     sum = sum+1;
-    alert(sum);
+    return sum;
     
 }
